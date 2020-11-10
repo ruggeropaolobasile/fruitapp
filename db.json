@@ -1,21 +1,11 @@
-[{
-  "name": "AngularJS",
-  "color": "red",
-  "rate": 3,
-  "available" : true,
-  "thumb": "content/img/AngularJS.png"
-},
 {
-  "name": "Php",
-  "color": "blue",
-  "rate": 4,
-  "available" : true,
-  "thumb": "content/img/php.png"
-},
-{
-  "name": "Scada Siemens",
-  "color": "blue",
-  "rate": 8,
-  "available" : true,
-  "thumb": "content/img/ScadaSiemens.png"
-}]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
